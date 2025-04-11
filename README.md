@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil Hebert 😁
+## Bem-vindo(a) ao meu perfil Hebert 
 
  <div>
    <a href="https://github.com/Hebert-Soares">
